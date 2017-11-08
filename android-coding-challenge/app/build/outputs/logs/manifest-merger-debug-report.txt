@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:design:25.3.1] /Users/vallsa7/.android/build-cache/b703add44329071861c4acaf98075263c22113a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/vallsa7/.android/build-cache/582ed672b83f2792a3d3bc84541f1f860f5880ef/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/vallsa7/.android/build-cache/843d8996710ea02596dc66aab5b3985c0cea6357/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/vallsa7/.android/build-cache/778f5f794eeddc60333f6f31519643445a4b3db6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vallsa7/.android/build-cache/c23b630c5ff52ae72771c08c937fc298a7a5ba56/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vallsa7/.android/build-cache/13401e86f4537cc633324e9635623595d1e8c7d5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vallsa7/.android/build-cache/3f053f3b1d4fd807e4a5edf4c5aa7f45a595c6d1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vallsa7/.android/build-cache/2c6c3b68b2745c15d3a244e202ff1dd8da5cf204/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vallsa7/.android/build-cache/81d0f90f3b370253d2bb766e95c42d3134e0fef3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vallsa7/.android/build-cache/61f79b6f6ede06690478196bdae6b607ddedb877/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:8:9-28
+activity#com.stashinvest.stashchallenge.ui.activity.MainActivity
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:15:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/vallsa7/.android/build-cache/b703add44329071861c4acaf98075263c22113a3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/vallsa7/.android/build-cache/582ed672b83f2792a3d3bc84541f1f860f5880ef/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/vallsa7/.android/build-cache/843d8996710ea02596dc66aab5b3985c0cea6357/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/vallsa7/.android/build-cache/778f5f794eeddc60333f6f31519643445a4b3db6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vallsa7/.android/build-cache/c23b630c5ff52ae72771c08c937fc298a7a5ba56/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vallsa7/.android/build-cache/13401e86f4537cc633324e9635623595d1e8c7d5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vallsa7/.android/build-cache/3f053f3b1d4fd807e4a5edf4c5aa7f45a595c6d1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vallsa7/.android/build-cache/2c6c3b68b2745c15d3a244e202ff1dd8da5cf204/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/vallsa7/.android/build-cache/ea5bf2e16b5824707b9ca689d3bb385825d39044/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vallsa7/.android/build-cache/81d0f90f3b370253d2bb766e95c42d3134e0fef3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/vallsa7/.android/build-cache/6b33f3f7b5f6c2ae9c94333823a1d424922cc0ce/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vallsa7/.android/build-cache/61f79b6f6ede06690478196bdae6b607ddedb877/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/vallsa7/.android/build-cache/b703add44329071861c4acaf98075263c22113a3/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/vallsa7/.android/build-cache/b703add44329071861c4acaf98075263c22113a3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/vallsa7/.android/build-cache/582ed672b83f2792a3d3bc84541f1f860f5880ef/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/vallsa7/.android/build-cache/843d8996710ea02596dc66aab5b3985c0cea6357/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/vallsa7/.android/build-cache/778f5f794eeddc60333f6f31519643445a4b3db6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vallsa7/.android/build-cache/c23b630c5ff52ae72771c08c937fc298a7a5ba56/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vallsa7/.android/build-cache/13401e86f4537cc633324e9635623595d1e8c7d5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vallsa7/.android/build-cache/3f053f3b1d4fd807e4a5edf4c5aa7f45a595c6d1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vallsa7/.android/build-cache/2c6c3b68b2745c15d3a244e202ff1dd8da5cf204/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/vallsa7/.android/build-cache/ea5bf2e16b5824707b9ca689d3bb385825d39044/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vallsa7/.android/build-cache/81d0f90f3b370253d2bb766e95c42d3134e0fef3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vallsa7/.android/build-cache/61f79b6f6ede06690478196bdae6b607ddedb877/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/vallsa7/.android/build-cache/b703add44329071861c4acaf98075263c22113a3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/vallsa7/.android/build-cache/b703add44329071861c4acaf98075263c22113a3/output/AndroidManifest.xml:26:9-47

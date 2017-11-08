@@ -19,6 +19,8 @@ public class GettyImageService {
     }
 
     public Call<ImageResponse> searchImages(String phrase) {
+
+        
         return api.searchImages(phrase, FIELDS, SORT_ORDER);
     }
 

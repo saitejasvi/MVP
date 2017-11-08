@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/vallsa7/Documents/GitHub/MVP/android-coding-challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/vallsa7/.android/build-cache/bafacc85a0471cab4e52e8bd8e47b1ae42ccb6d1/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
